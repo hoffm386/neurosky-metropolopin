@@ -1,4 +1,4 @@
-package com.test.helloeeg;
+package HelloEEG.src.com.test.helloeeg;
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
